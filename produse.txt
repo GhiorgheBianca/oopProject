@@ -1,0 +1,5 @@
+1,paine,aliment,2.5
+2,lapte,aliment,3
+4,laptop,electronic,2.3
+5,abc,aa,0
+10,a,mancare,1
